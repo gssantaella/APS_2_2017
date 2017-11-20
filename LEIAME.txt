@@ -1,0 +1,16 @@
+Gil Santaella Santos D131CF8
+Guilherme Cuin de Lemos D078ID7
+Gustavo Zambon Di Palma C89BFI9
+Wu Guo Shing C819425
+
+Para rodar no prompt:
+
+javac *.java
+java Plataforma
+
+
+No Netbeans:
+
+Crie um projeto novo sem a classe principal.
+Arraste todos os arquivos para o projeto.
+Rode a classe Plataforma.java
